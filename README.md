@@ -1,4 +1,4 @@
-# Печатные платы. SuperGYM. HTMLAcademy.
+# SuperGYM. HTMLAcademy.
  
 * Выполнил: Поярков Владимир
 
